@@ -1,0 +1,31 @@
+Name,"Type (bottled, natural, etc.)",Brand,Type,Sample ID,Done?,Location,Latitude,Longitude,Elevation
+Susannah S,Thames estuary seawater,,other,O20-M-01,y,Chalkwell,51.5347,0.692,0
+Alex C,Cambridge tap water (note: I live at Selwyn),,tap (Cam),O20-T-01,y,Cambridge tap (Selwyn),52.2015,0.1069,17
+Alex C,Bottled (from Cumbria),Aqua Pura,bottle,O20-B-01,y,"Armathwaite, Cumbria",54.8075,-2.7701,60
+Lucas M,Kingsdown Bottled Water (says from Kent on bottle),Kingsdown,bottle,O20-B-02,y,Kingsdown ,51.187,1.4028,32
+Will P,River Cam opposite midsummer common,delicious,river,O20-R-01,y,"Downing Boathouse, Cambridge",52.2108,0.1351,8
+Zara C,Hampshire river water (chalk stream),,river,O20-R-02,y,"Whitchurch, Hampshire River",51.2302,-1.3384,11
+Zara C,Hampshire tap water,,tap (chalk),O20-T-02,y,"Whitchurch, Hampshire Tap",51.2302,-1.3384,11
+Zara C,Nepalese rain water,,rain,O20-P-01,y,Nepal,27.9334,85.5991,2644
+Mikey S,bottle,Highland Spring,bottle,O20-B-03,y,"Ochil Hills, Scotland",56.2512,-3.5899,339
+Mikey S,bottle,Still British spring water by Sainsbury's ,bottle,O20-B-04,y,Chase Spring (Staffordshire),52.7162,-1.7965,71
+Ryan S,bottle,Volvic Natural mineral water,bottle,O20-B-05,y,"Clairvic Spring, France",45.8621,3.0389,554
+Ryan S,bottle,Evian,bottle,O20-B-06,y,"Cachat Spring, France",46.3838,6.6144,732
+Ryan S,bottle,Aqua Pura,bottle,O20-B-07,y,"Armathwaite, Cumbria",54.8089,-2.7692,60
+Carmen,bottled spring water,Radnor,bottle,O20-B-08,y,Radnor Hills,52.3463,-2.9645,156
+Carmen,yorkshire tap water,,tap ,O20-T-03,y,Yorkshire Tap,54.2745,-2.4829,284
+Carmen,homerton duck pond water,,other,O20-M-02,y,Cambridge Homerton (Pond),52.185,0.1346,22
+Will P,Bottle (from Powys?),one,bottle,O20-B-09,y,"Churchstoke, Powys",52.5402,-3.0757,126
+Will P,Cambridge rowing tank water,,other,O20-M-03,y,"Downing Boathouse, Cambridge",52.2108,0.1351,12
+Gio B,Peru Rain Water,,rain,O20-P-02,y,Peru,-12.8479,-75.5836,4667
+Gio B,Nepal Spring Water,,other,O20-M-04,y,Nepal,27.929,85.5856,2176
+Gio B,Ethiopian Lake Water,,other,O20-M-05,y,Ethiopia,7.5342,38.6332,1568
+Annabelle,bottled,co-op own brand natural mineral still,bottle,O20-B-10,y,"Churchstoke, Powys",52.5402,-3.0757,126
+Annabelle,goldie rowing tank water,,other,O20-M-06,y,"Goldie Boathouse, Cambridge",52.2112,0.1308,9
+Lucas M,Godwin Water Dispenser,,bottle,O20-B-11,y,Cambridge,52.2026,0.1199,20
+Susannah S,Mill Road tap water,,tap,O20-T-04,y,Cambridge Tap (Mill Road),52.1997,0.1411,15
+Yu H,Antarctic ice melt water,BAS - Thomas Bauska,other,O20-M-07,y,Antarctica,-80,20,3056
+Yu H,Antarctic ice melt water - replicate,,other,O20-M-08,y,Antarctica,-80,20,3056
+Yu H,Bottled (from Spain),Ursu,bottle,O20-B-12,y,"El Oso, Avila",40.9621,-4.77,898
+Yu H,Seawater - from the Naze,,other,O20-M-09,y,The Naze,51.8668,1.293,0
+Lucas M,Tesco Ashbeck Sparkling (Eden Valley),Tesco own brand sparkling,,020-B-13,y,"Armathwaite, Cumbria",54.806,-2.7689,60
